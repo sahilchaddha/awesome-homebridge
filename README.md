@@ -53,7 +53,7 @@ Popular collection of Homebridge Plugins
 ### Sensors
 
 - [Is It Down](https://github.com/sahilchaddha/homebridge-http-is-it-down/)
-- [People)](https://github.com/PeteLawrence/homebridge-people)
+- [People](https://github.com/PeteLawrence/homebridge-people)
 - [Xiaomi BT Temperature Sensor](https://github.com/hannseman/homebridge-mi-hygrothermograph#readme)
 - [Weather API Temperature Sensor](https://github.com/werthdavid/homebridge-weather#readme)
 - [RPi CPU Temperature Sensor](https://github.com/YinHangCode/homebridge-raspberrypi-temperature)
