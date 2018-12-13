@@ -34,6 +34,7 @@ Popular collection of Homebridge Plugins
 ### Air Purifier
 
 - [Mi](https://github.com/seikan/homebridge-mi-air-purifier#readme)
+- [Airmega](https://github.com/aschzero/homebridge-airmega)
 
 ### Universal Controllers
 
@@ -63,6 +64,10 @@ Popular collection of Homebridge Plugins
 
 - [Xiaomi Dafang](https://github.com/sahilchaddha/homebridge-dafang)
 - [Camera FFMPEG](https://github.com/KhaosT/homebridge-camera-ffmpeg#readme)
+
+### Locks
+
+- [Sesame](https://github.com/aschzero/homebridge-sesame)
 
 ### Web Dashboard
 
