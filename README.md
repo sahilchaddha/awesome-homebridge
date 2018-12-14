@@ -21,7 +21,7 @@ Popular collection of Homebridge Plugins
 - [DACP](https://github.com/grover/homebridge-dacp/)
 - [Theater Mode](https://github.com/edc1591/homebridge-theater-mode)
 
-### Audit/Speakers
+### Audio/Speakers
 
 - [Sonos](https://github.com/nfarina/homebridge-sonos)
 
