@@ -46,6 +46,7 @@ Popular collection of Homebridge Plugins
 - [Run Shell Command](https://github.com/luisiam/homebridge-cmdswitch2#readme)
 - [HTTP Switch](https://github.com/Supereg/homebridge-http-switch#readme)
 - [Mi Gateway Security](https://github.com/YinHangCode/homebridge-mi-gateway-security)
+- [SONOFF](https://github.com/AlexanderBabel/homebridge-sonoff#readme)
 
 ### Automation
 
