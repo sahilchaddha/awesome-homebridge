@@ -15,6 +15,7 @@ Popular collection of Homebridge Plugins
 - [TP-Link](https://github.com/plasticrake/homebridge-tplink-smarthome#readme)
 - [Wemo](https://github.com/rudders/homebridge-platform-wemo#readme)
 - [Nest](https://github.com/chrisjshull/homebridge-nest#readme)
+- [Ikea TRÅDFRI](https://github.com/meg768/homebridge-ikea-tradfri-gateway#readme)
 
 ### Apple TV
 
