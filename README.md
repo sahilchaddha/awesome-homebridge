@@ -74,3 +74,4 @@ Popular collection of Homebridge Plugins
 ### Web Dashboard
 
 - [Config-UI-X](https://github.com/oznu/homebridge-config-ui-x#readme)
+- [Homebridge-Display](https://github.com/EricAndrechek/homebridge-display#readme)
