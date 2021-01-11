@@ -16,6 +16,7 @@ Popular collection of Homebridge Plugins
 - [Wemo](https://github.com/rudders/homebridge-platform-wemo#readme)
 - [Nest](https://github.com/chrisjshull/homebridge-nest#readme)
 - [Ikea TRÅDFRI](https://github.com/meg768/homebridge-ikea-tradfri-gateway#readme)
+- [Zigbee2MQTT](https://github.com/itavero/homebridge-z2m#readme)
 
 ### Apple TV
 
