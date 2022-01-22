@@ -49,6 +49,7 @@ Popular collection of Homebridge Plugins
 - [HTTP Switch](https://github.com/Supereg/homebridge-http-switch#readme)
 - [Mi Gateway Security](https://github.com/YinHangCode/homebridge-mi-gateway-security)
 - [SONOFF](https://github.com/AlexanderBabel/homebridge-sonoff#readme)
+- [Button Platform](https://github.com/Djelibeybi/homebridge-button-platform#readme)
 
 ### Automation
 
