@@ -32,11 +32,16 @@ Popular collection of Homebridge Plugins
 - [Hue](https://github.com/ebaauw/homebridge-hue)
 - [Yeelight](https://github.com/sahilchaddha/homebridge-yeelight-platform)
 - [MagicHome](https://github.com/sahilchaddha/homebridge-magichome-platform)
+- [Eaton xComfort](https://github.com/moritzw1/homebridge-xcomfort)
+
+### Televisions
+- [Samsung Tizen](https://github.com/tavicu/homebridge-samsung-tizen)
 
 ### Air Purifier
 
 - [Mi](https://github.com/seikan/homebridge-mi-air-purifier#readme)
 - [Airmega](https://github.com/aschzero/homebridge-airmega)
+- [Dyson PureCool](https://github.com/lukasroegner/homebridge-dyson-pure-cool)
 
 ### Universal Controllers
 
@@ -63,6 +68,9 @@ Popular collection of Homebridge Plugins
 - [Weather API Temperature Sensor](https://github.com/werthdavid/homebridge-weather#readme)
 - [RPi CPU Temperature Sensor](https://github.com/YinHangCode/homebridge-raspberrypi-temperature)
 
+### Smart Doorbells
+- [Ring](https://github.com/dgreif/ring/tree/main/packages/homebridge-ring#homebridge-ring)
+
 ### Cameras
 
 - [Xiaomi Dafang](https://github.com/sahilchaddha/homebridge-dafang)
@@ -71,6 +79,8 @@ Popular collection of Homebridge Plugins
 ### Locks
 
 - [Sesame](https://github.com/aschzero/homebridge-sesame)
+- [Bold (Connect)](https://github.com/StefanNienhuis/homebridge-bold)
+- [Bold (Bluetooth)](https://github.com/robbertkl/homebridge-bold-ble)
 
 ### Web Dashboard
 
