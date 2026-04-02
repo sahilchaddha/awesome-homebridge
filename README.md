@@ -65,21 +65,25 @@ Popular collection of Homebridge Plugins
 
 - [Is It Down](https://github.com/sahilchaddha/homebridge-http-is-it-down/)
 - [People](https://github.com/PeteLawrence/homebridge-people)
+- [SmartRent](https://github.com/BitWise-0x/homebridge-smartrent#readme) - SmartRent leak and motion sensors with battery monitoring and low-battery alerts.
 - [Xiaomi BT Temperature Sensor](https://github.com/hannseman/homebridge-mi-hygrothermograph#readme)
 - [Weather API Temperature Sensor](https://github.com/werthdavid/homebridge-weather#readme)
 - [RPi CPU Temperature Sensor](https://github.com/YinHangCode/homebridge-raspberrypi-temperature)
 
 ### Smart Doorbells
+- [Blink Security](https://github.com/BitWise-0x/homebridge-blink-security#readme) - Blink video doorbell with press notifications and live view.
 - [Ring](https://github.com/dgreif/ring/tree/main/packages/homebridge-ring#homebridge-ring)
 
 ### Cameras
 
+- [Blink Security](https://github.com/BitWise-0x/homebridge-blink-security#readme) - Blink cameras, doorbells, and sirens with live streaming, arm/disarm, and motion detection.
 - [Xiaomi Dafang](https://github.com/sahilchaddha/homebridge-dafang)
 - [Camera FFMPEG](https://github.com/KhaosT/homebridge-camera-ffmpeg#readme)
 
 ### Locks
 
 - [Sesame](https://github.com/aschzero/homebridge-sesame)
+- [SmartRent](https://github.com/BitWise-0x/homebridge-smartrent#readme) - SmartRent locks, thermostats, leak sensors, motion sensors, and switches with real-time WebSocket updates.
 - [Bold (Connect)](https://github.com/StefanNienhuis/homebridge-bold)
 - [Bold (Bluetooth)](https://github.com/robbertkl/homebridge-bold-ble)
 
