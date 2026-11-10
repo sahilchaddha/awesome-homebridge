@@ -71,6 +71,7 @@ Popular collection of Homebridge Plugins
 - [RPi CPU Temperature Sensor](https://github.com/YinHangCode/homebridge-raspberrypi-temperature)
 
 ### Smart Doorbells
+
 - [Ring](https://github.com/dgreif/ring/tree/main/packages/homebridge-ring#homebridge-ring)
 
 ### Cameras
@@ -83,6 +84,10 @@ Popular collection of Homebridge Plugins
 - [Sesame](https://github.com/aschzero/homebridge-sesame)
 - [Bold (Connect)](https://github.com/StefanNienhuis/homebridge-bold)
 - [Bold (Bluetooth)](https://github.com/robbertkl/homebridge-bold-ble)
+
+### Security Systems
+
+- [Yale Sync Alarm (YSA2)](https://github.com/thechelsuk/homebridge-YSA2-plugin#readme)
 
 ### Web Dashboard
 
